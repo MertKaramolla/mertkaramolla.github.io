@@ -33,32 +33,32 @@ a {
     font-family: 'Futura PT';
     font-style: normal;
     font-weight: 400;
-    src: url('../fonts/Futura-PT/FuturaCyrillicBook.woff') format('woff'),
-        url('../fonts/Futura-PT/FuturaCyrillicBook.ttf') format('truetype');
+    src: url('fonts/Futura-PT/FuturaCyrillicBook.woff') format('woff'),
+        url('fonts/Futura-PT/FuturaCyrillicBook.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Futura PT';
     font-style: normal;
     font-weight: 300;
-    src: url('../fonts/Futura-PT/FuturaCyrillicLight.woff') format('woff'),
-        url('../fonts/Futura-PT/FuturaCyrillicLight.ttf') format('truetype');
+    src: url('fonts/Futura-PT/FuturaCyrillicLight.woff') format('woff'),
+        url('fonts/Futura-PT/FuturaCyrillicLight.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Futura PT';
     font-style: normal;
     font-weight: 500;
-    src: url('../fonts/Futura-PT/FuturaCyrillicMedium.woff') format('woff'),
-        url('../fonts/Futura-PT/FuturaCyrillicMedium.ttf') format('truetype');
+    src: url('fonts/Futura-PT/FuturaCyrillicMedium.woff') format('woff'),
+        url('fonts/Futura-PT/FuturaCyrillicMedium.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Futura PT';
     font-style: normal;
     font-weight: 700;
-    src: url('../fonts/Futura-PT/FuturaCyrillicBold.woff') format('woff'),
-        url('../fonts/Futura-PT/FuturaCyrillicBold.ttf') format('truetype');
+    src: url('fonts/Futura-PT/FuturaCyrillicBold.woff') format('woff'),
+        url('fonts/Futura-PT/FuturaCyrillicBold.ttf') format('truetype');
 }
 
 
