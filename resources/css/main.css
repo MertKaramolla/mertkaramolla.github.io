@@ -1,32 +1,4 @@
 
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    font-family: 'Futura PT', Roboto, sans-serif;
-}
-
-*::selection {
-    background-color: #00f;
-    color: white;
-}
-
-html {
-    background-color: rgb(243, 243, 243);
-}
-
-body {
-    background-color: white;
-    max-width: 1600px;
-    margin: 0px auto;
-}
-
-a {
-    color: black;
-    text-decoration: none;
-}
-
-
 /* Futura PT Font Face */
 
 @font-face {
@@ -60,6 +32,37 @@ a {
     src: url('fonts/Futura-PT/FuturaCyrillicBold.woff') format('woff'),
         url('fonts/Futura-PT/FuturaCyrillicBold.ttf') format('truetype');
 }
+
+/* Global */
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Futura PT', Roboto, sans-serif;
+}
+
+*::selection {
+    background-color: #00f;
+    color: white;
+}
+
+html {
+    background-color: rgb(243, 243, 243);
+}
+
+body {
+    background-color: white;
+    max-width: 1600px;
+    margin: 0px auto;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
 
 
 /* SVG */
